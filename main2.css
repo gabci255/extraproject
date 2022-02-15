@@ -38,8 +38,12 @@ body {
 ul {
   list-style-type: none;
 }
-li {
+form {
   display: inline;
+  text-align: right;
+}
+button {
+  position: right;
 }
 @media screen and (max-width: 300px){
 .wrapper {
@@ -49,4 +53,7 @@ li {
   margin: 3%;
  
   }
+}
+.right {
+  float: right;
 }
