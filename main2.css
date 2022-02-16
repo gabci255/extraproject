@@ -43,18 +43,13 @@ form {
   display: inline;
   text-align: right;
 }
-button {
-  position: right;
-}
+
 @media screen and (max-width: 300px){
 .wrapper {
-  font-size: 2vw;
+  font-size: 1vw;
   padding: 0;
   width: 80%;
-  margin: 3%;
+  margin: 1%;
  
   }
-}
-.right {
-  float: right;
 }
