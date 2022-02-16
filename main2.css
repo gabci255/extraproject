@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper {
-  padding-top: 15px;
+  padding-top: 30px;
   width: auto%;
   margin: 0 auto;
   text-align: center;
@@ -25,10 +25,9 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 36px; 
+  font-size: 7vw; 
   width: 100%;
   height: auto;
-  margin: 130px auto 20px auto;
 }
 
 .author {
@@ -43,14 +42,18 @@ form {
   display: inline;
   text-align: right;
 }
-
-@media screen and (max-width: 400px){
+button {
+  position: right;
+}
+@media screen and (max-width: 300px){
 .wrapper {
-  font-size: 1vw;
+  font-size: 2vw;
   padding: 0;
   width: 80%;
-  margin: 1%;
-  text-align: center;
+  margin: 3%;
  
   }
+}
+.right {
+  float: right;
 }
