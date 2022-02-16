@@ -45,7 +45,7 @@ form {
 button {
   position: right;
 }
-@media screen and (max-width: 300px){
+@media screen and (max-width: 250px){
 .wrapper {
   font-size: 1vw;
   padding: 0;
