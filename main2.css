@@ -19,13 +19,13 @@ body {
 .wrapper {
   padding-top: 30px;
   width: auto%;
-  margin: 0 auto;
+  margin: 30 auto;
   text-align: center;
 }
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 7vw; 
+  font-size: 36px; 
   width: 100%;
   height: auto;
 }
