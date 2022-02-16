@@ -47,7 +47,7 @@ button {
 }
 @media screen and (max-width: 300px){
 .wrapper {
-  font-size: 2vw;
+  font-size: 1vw;
   padding: 0;
   width: 80%;
   margin: 3%;
